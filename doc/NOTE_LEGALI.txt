@@ -1,0 +1,18 @@
+****UFO-WD****
+1) Il presente software è stato sviluppato solo ed esclusivamente per recuperare la password e/o testare la sicurezza della propria rete wifi o di una rete di cui il proprietario abbia espressamente dato il libero consenso al fine di giudicarne la sicurezza in modo da valutare la necessità di dover sostituire la password di default del router stesso, o il router stesso.
+2) Il presente software è basato su codici utili a risolvere algoritmi di cifratura di alcuni router, tali algoritmi sono di dominio pubblico e rinvenibili liberamente sulla rete.
+3) IL presente software non consente, comunque, l'accesso al computer o al router o al traffico internet ma ne testa la sicurezza calcolando una o più password, rinvenute utilizzando i pubblici criteri di calcolo, che possano potenzialmente essere valide per consentire l'accesso ad internet tramite quel particolare router.
+***ATTENZIONE***
+L’accesso non autorizzato ad una rete altrui è reato.
+
+Si ricorda in tal senso :
+art. 615 ter cp
+Chiunque abusivamente si introduce in un sistema informatico o telematico protetto da misure di sicurezza ovvero vi si mantiene contro la volontà espressa o tacita di chi ha il diritto di escluderlo, è punito con la reclusione fino a tre anni.
+
+art 617 quater cp
+Chiunque fraudolentemente intercetta comunicazioni relative a un sistema informatico o telematico o intercorrenti tra più sistemi, ovvero le impedisce o le interrompe, è punito con la reclusione da sei mesi a quattro anni.
+
+Inoltre si puo considerare la violazione della segretezza della comunicazione stessa,reato previsto dall'art. 167 del D.Lgs 196/2003, in quanto  si tratteranno dati senza il consenso dell'interessato (o degli interessati, cfr. art. 23 D.Lgs 196/2003), passando per la frode informatica (art. 640 ter c.p.), la sostituzione di persona (art. 494 c.p.)
+
+
+See copying/

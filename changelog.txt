@@ -1,0 +1,29 @@
+﻿======================================
+22 Dicembre 2012
+-Scanner WIFI:	-migliorata compatibilità nel codice (un solo file per linux e windows)
+		-aggiunto scanner attivabile se si è su windows vista e superiori
+======================================		
+20 Dicembre 2012
+-Scanner WIFI:  -aggiunta compatibilità multilingua allo scanner di Windows
+
+======================================
+11 Dicembre 2012
+-Codice:	-miglioramento della leggibilità
+			-resa funzionanate la localizzazione
+-Struttura e files: Aggiunte note legali e file di licenza
+======================================
+10 Dicembre 2012
+-Core	-aggiunto il modulo findpics per settare le icone tramite una semplice funzione leggibile senza moltiplicare il codice per ciascun file
+-Struttura e files: -Rinominati i file e risistemate in cartelle diverse
+======================================
+09 Dicembre 2012
+-Core:	-spostate alcune funzioni tra le classi
+		-miglioramento della leggibilità del codice
+======================================	
+08 Dicembre 2012
+-Scanner WIFI:	-aggiunta la misurazione della potenza del segnale e le relative icone
+				-aggiunta la ricerca automatica ogni 6 secondi
+======================================		
+08 Dicembre 2012
+- Inizia il lavoro sulla versione 3.0 codename
+======================================
